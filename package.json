@@ -3,14 +3,14 @@
 	"name": "opifex.redis",
 	"license" : "MIT",
 	"description": "Runs shell commands from AMQP",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"repository": {
 		"url": "http://github.com/cthulhuology/opifex.runner"
 	},
 	"main": "./lib/Redis.coffee",
 	"bin": {},
 	"dependencies": {
-		"opifex" : "0.0.2"
+		"opifex" : "0.0.4"
 	},
 	"devDependencies": {},
 	"optionalDependencies": {},
